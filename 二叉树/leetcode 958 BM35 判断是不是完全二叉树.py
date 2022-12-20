@@ -39,3 +39,4 @@ class Solution:
             if tmp.right is not None:
                 q.put(tmp.right)
         return True
+    
